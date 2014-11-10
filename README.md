@@ -1,0 +1,4 @@
+StandAlone
+==========
+
+UI exercise.
